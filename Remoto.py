@@ -55,7 +55,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-TOKEN = '7331109803:AAEk1q2JiB44hQWhGvaIdS1FG5pLy3vK6IU'
+TOKEN = ''
 
 
 
